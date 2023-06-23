@@ -11,4 +11,4 @@
 ![Restaurant_landing](https://github.com/abhiraj-kale/fine-dine-admin-frontend/assets/58825394/0e73a57d-ddd2-49d7-9720-4e7618193548)
 
 # Demo
-https://abhiraj-kale.github.io/fine-dine-admin-frontend/public/webpages/homepage.html
+https://fine-dine-backend.onrender.com/
